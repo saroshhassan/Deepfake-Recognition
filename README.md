@@ -1,7 +1,7 @@
-# Deepfake-Recognition
+# Deepfake Recognition
 This project explores deepfake detection using CNN models trained on a subset of the Real and Synthetic Faces Dataset (Mendeley Data). It includes end-to-end preprocessing with feature extraction (Color Histogram, LBP, Edge Density), model tuning with Keras Tuner, and evaluation with recall-based early stopping. Visual analyses are also provided.
 
-# 🧠 Deepfake Detection using CNN and ResNet Architectures
+# Deepfake Detection using CNN and ResNet Architectures
 
 This repository presents a deep learning approach to **deepfake face detection**, combining **Convolutional Neural Networks (CNN)** and **ResNet-style architectures**.  
 The models were trained on a subset of the *Comprehensive Deepfake Detection Dataset * from Mendeley Data.  
@@ -9,7 +9,7 @@ Due to hardware constraints, the dataset was downsampled while preserving class 
 
 ---
 
-## 📘 Overview
+## Overview
 
 Deepfakes pose a growing threat to digital trust, driven by advances in AI-generated imagery.
 This project develops a deepfake detection pipeline that integrates **feature extraction** (Color Histograms, Local Binary Patterns, and Edge Density) with CNN-based architectures.  
