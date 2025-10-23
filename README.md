@@ -69,5 +69,4 @@ pip install -r requirements.txt
 
 jupyter notebook Deepfake_Detection.ipynb
 ```
-git clone https://github.com/<your-username>/deepfake-detection-cnn.git
-cd deepfake-detection-cnn
+
