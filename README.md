@@ -38,7 +38,7 @@ The final model achieves **over 97% recall** using Keras Tuner–optimized hyper
 - **Hyperparameter Optimization**:  
   - Keras Tuner Random Search  
   - Early stopping at recall > 98%  
-- 📊 **Evaluation**:  
+- **Evaluation**:  
   - Accuracy,, Recall, F1-score  
   - Confusion Matrix (heatmap)  
   - Visualization of first 5 misclassified samples  
